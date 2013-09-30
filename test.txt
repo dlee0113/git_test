@@ -2,7 +2,7 @@ This is a test.
 new line added.
 
 merge this change.
-fetch this change.
+fetch this change again.
 
 
 This is a conflicting change to pull.
