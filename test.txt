@@ -3,4 +3,5 @@ new line added.
 
 merge this change.
 
-This is a conflicting change to push.
+
+This is a conflicting change to pull.
