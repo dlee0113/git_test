@@ -6,3 +6,4 @@ fetch test.
 
 
 This is a conflicting change to pull.
+pull this change and rebase.
