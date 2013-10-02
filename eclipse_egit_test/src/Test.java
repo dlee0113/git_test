@@ -4,6 +4,6 @@ public class Test {
 		System.out.println("push this after rebase");
 		System.out.println("new feature added to a branch");
 		
-		// commit
+		// amend commit
 	}
 }
