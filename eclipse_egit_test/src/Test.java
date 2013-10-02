@@ -3,5 +3,7 @@ public class Test {
 		System.out.println("pull this for rebase");
 		System.out.println("push this after rebase");
 		System.out.println("new feature added to a branch");
+		
+		// commit
 	}
 }
